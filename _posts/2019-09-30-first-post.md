@@ -8,3 +8,11 @@ categories: 게시판
 다이나믹 블로그 개설했읍니다
 
 안녕하세요ㅎㅎ
+
+​```C++
+#include <bits/stdc++.h>
+using namespace std;
+main(){
+   cout << "Welcome to Dynamic BloG!";
+}
+​```
