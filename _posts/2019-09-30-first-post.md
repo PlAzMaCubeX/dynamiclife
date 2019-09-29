@@ -11,8 +11,12 @@ categories: 게시판
 
 ​```C++
 #include <bits/stdc++.h>
+
 using namespace std;
+
 main(){
+
    cout << "Welcome to Dynamic BloG!";
+   
 }
 ​```
