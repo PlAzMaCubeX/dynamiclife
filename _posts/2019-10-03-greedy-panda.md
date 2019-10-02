@@ -11,6 +11,7 @@ https://www.acmicpc.net/problem/1937
 
 오늘은 BaekJoon 1937 : 욕심쟁이 판다 문제를 풀어보았는데요, 
 solved.ac 기준으로 Gold III 문제입니다.
+
 이 문제는 판다가 최대한 살 수 있는 시간(일)을 구하는 문제입니다.
 
 풀이는 간단합니다.
